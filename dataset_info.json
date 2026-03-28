@@ -1,0 +1,9 @@
+{
+  "num_users": 6038,
+  "num_items": 3533,
+  "train_size": 402696,
+  "val_size": 86292,
+  "test_size": 86293,
+  "neg_sample_ratio": 4,
+  "positive_threshold": 4
+}
