@@ -27,21 +27,12 @@ This project implements Neural Collaborative Filtering (NCF) on the MovieLens 1M
 
 ## Results
 Best model performance:
-<<<<<<< HEAD
 - Recall@10 ≈ 0.0862
 - NDCG@10 ≈ 0.1342
-=======
-- Recall@10 ≈ 0.0845
-- NDCG@10 ≈ 0.1289
->>>>>>> c10c802fe9fb9c105d61071ba80501f29da6339b
 
 ## How to Run
 1. Install dependencies:
 pip install pandas numpy scikit-learn torch matplotlib
 
 2. Run:
-<<<<<<< HEAD
 Recommender_System_1.ipynb
-=======
-Recommender_System_1.ipynb
->>>>>>> c10c802fe9fb9c105d61071ba80501f29da6339b
